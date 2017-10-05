@@ -29,7 +29,7 @@ members of the open source community
 * Program will be needed to parse data file that contains links
 * Allow users to easily submit links
 
-See Also: [Contributing](CONTRIBUTING.md]
+See Also: [Contributing](CONTRIBUTING.md)
 
 ## Contact
 * Andy Alt (andy400-dev@yahoo.com)
