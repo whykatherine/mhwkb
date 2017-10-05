@@ -1,4 +1,4 @@
-# mhwkb.github.io
+# mhwkb
 Mental Health and Wellness Knowledge Base
 
 This project is in the planning stages
@@ -35,4 +35,4 @@ See Also: [Contributing](CONTRIBUTING.md)
 ## Contact
 * Andy Alt (andy400-dev@yahoo.com)
 * [Gitter Chat](https://gitter.im/mhwkb/Lobby)
-* [Issues](https://github.com/andy5995/mhwkb.github.io/issues)
+* [Issues](https://github.com/andy5995/mhwkb/issues)
