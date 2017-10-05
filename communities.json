@@ -4,5 +4,17 @@
     "link": "https://www.if-me.org/",
     "date": "na"
     "tags": ["open_source", "blogs", "directories"]
+  },
+  {
+    "name": "Mad in America",
+    "link": "https://www.madinamerica.com/",
+    "date": "na"
+    "tags": ["journalism", "news", "blogs", "stories", "social_justice"]
+  },
+  {
+    "name": "MindFreedom International",
+    "link": "http://mindfreedom.org/",
+    "date": "na"
+    "tags": ["human_rights", "news", "advocacy"]
   }
 ]
