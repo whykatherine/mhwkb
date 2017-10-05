@@ -4,10 +4,11 @@ Mental Health and Wellness Knowledge Base
 This project is in the planning stages
 
 ## Goals
+* [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
 * Web site should be low-maintenance.
   * a simple link manager
   * RSS aggregator
-  * no logins required, all changes to site will be submitted through the
+  * no logins necessary, all changes to site will be submitted through the
   GitHub project page
   * links to external web sites added should have relatively fast load times,
   not be bogged down fetching hotlinked images, etc.

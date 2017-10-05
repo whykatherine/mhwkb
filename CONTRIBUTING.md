@@ -1,5 +1,7 @@
 # Contributing
 
+[Code of Conduct](CODE_OF_CONDUCT.md)
+
 ## Communication
 
   * [Gitter Chat](https://gitter.im/mhwkb/Lobby)
