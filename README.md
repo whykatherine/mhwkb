@@ -4,6 +4,13 @@ Mental Health and Wellness Knowledge Base
 This project is in the planning stages
 
 ## Goals
+* Web site should be low-maintenance.
+  * a simple link manager
+  * RSS aggregator
+  * no logins required, all changes to site will be submitted through the
+  GitHub project page
+  * links to external web sites added should have relatively fast load times,
+  not be bogged down fetching hotlinked images, etc.
 * To accumulate a wide variety of links related to mental health and wellness
 * To present information that is not well-advertised by well-known media outlets
 * To provide people with
@@ -22,4 +29,9 @@ members of the open source community
 * Program will be needed to parse data file that contains links
 * Allow users to easily submit links
 
-Contact info: Andy Alt (andy400-dev@yahoo.com)
+See Also: [Contributing](CONTRIBUTING.md]
+
+## Contact
+* Andy Alt (andy400-dev@yahoo.com)
+* [Gitter Chat](https://gitter.im/mhwkb/Lobby)
+* [Issues](https://github.com/andy5995/mhwkb.github.io/issues)
