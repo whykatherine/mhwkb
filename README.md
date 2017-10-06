@@ -3,7 +3,20 @@ Mental Health and Wellness Knowledge Base
 
 See the [Knowlede Base](Knowledge_Base)
 
-This project is in the planning stages
+## Notes on Categorization
+
+Links starting with:
+* the word _a_ (ex. A)
+  * are in Knowlege_Base/01_a.md
+* the letter _a_ (ex. Anatomy)
+  * are in Knowlege_Base/01a.md
+* the word _How_
+  * are in Knowlege_Base/01_how.md
+* the phrase _Mental Health_
+  * are in Knowlege_Base/01_mental_health.md
+
+
+## This project is in the planning stages ##
 
 ## Goals
 * [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
