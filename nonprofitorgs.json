@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NAMI",
+    "link": "https://nami.org/",
+    "date": "na",
+    "tags": ["stigma", "awareness", "education"]
+  },
+  {
+    "name": "Open Sourcing Mental Illness (OSMI)",
+    "link": "https://osmihelp.org",
+    "date": "na",
+    "tags": ["open_source", "tech_industry", "education"]
+  }
+]
