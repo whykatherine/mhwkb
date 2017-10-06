@@ -67,7 +67,7 @@ to medication on Amazon or other book-selling sites.
 ## About Me
 I first received treatment for mental health issues (major depression, anxiety,
 PTSD) in 1991 (age 18). As a patient, I have seen numerous psychiatrists and
-psychotherapists, and have been on a few different types of psychiatric
+psychotherapists, and have been prescribed (and used) many types of psychiatric
 medication. I have read many opinions on the subject of mental health, and the
 negative and positive experiences consumers have had while using the mental
 health care system. I have also read information written by journalists and
