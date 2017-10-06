@@ -1,0 +1,26 @@
+[
+  {
+    "name": "The Mental Health Home for Veterans Affairs",
+    "link": "https://www.mentalhealth.va.gov/",
+    "date": "na",
+    "tags": ["va", "government"]
+  },
+  {
+    "name": "Veterans Crisis Line",
+    "link": "https://www.veteranscrisisline.net/GetHelp/ResourceLocator.aspx",
+    "date": "na",
+    "tags": ["crisis", "emergency"]
+  },
+  {
+    "name": "NAMI: National Alliance on Mental Illness",
+    "link": "https://www.nami.org/Find-Support/Veterans-and-Active-Duty",
+    "date": "na",
+    "tags": ["support", "alliance"]
+  },
+  {
+    "name": "SAMHSA: Veterans and Military Families",
+    "link": "https://www.samhsa.gov/veterans-military-families",
+    "date": "na",
+    "tags": ["family", "substance", "abuse", "government"]
+  }
+]
