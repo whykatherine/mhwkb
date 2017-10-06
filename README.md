@@ -1,6 +1,8 @@
 # mhwkb
 Mental Health and Wellness Knowledge Base
 
+See the [Knowlede Base](Knowledge_Base)
+
 This project is in the planning stages
 
 ## Goals

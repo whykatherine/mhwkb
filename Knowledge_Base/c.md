@@ -1,0 +1,4 @@
+[Culling the $$$ Evidence: National Alliance for Mental Illness](http://ahrp.org/culling-the-evidence-national-alliance-for-mental-illness/)<br />
+2009-04-18<br />
+"tags": ["advocacy", "human_rights", "human rights", "medication", "conflicts_of_interest"]<br />
+-<br />
