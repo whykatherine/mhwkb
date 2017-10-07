@@ -6,3 +6,4 @@ https://github.com/andy5995/mhwkb/graphs/contributors
 * [derekkramer](https://github.com/derekkramer)
 * [sunyatazero](https://github.com/sunyatazero)
 * [nikje94](https://github.com/nikje94)
+* [lauragift21](https://github.com/lauragift21)
