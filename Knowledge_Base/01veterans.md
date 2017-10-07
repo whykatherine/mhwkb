@@ -13,4 +13,8 @@ na<br />
 [SAMHSA: Veterans and Military Families](https://www.samhsa.gov/veterans-military-families)<br />
 na<br />
 "tags": ["family", "substance", "abuse", "government"]<br />
-
+-<br />
+[Buddhist Mindfulness Retreat for Veterans](https://www.youtube.com/playlist?list=PLs6ORPE7MX1tdcM5Ec3IHq3s18XFSJr-T)<br />
+na<br />
+"tags": ["retreat", "youtube", "video"]<br />
+-<br />
