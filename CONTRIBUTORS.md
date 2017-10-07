@@ -1,9 +1,9 @@
 # Contributors
-https://github.com/andy5995/mhwkb/graphs/contributors
+GitHub's automated list: [graphs/contributors](https://github.com/andy5995/mhwkb/graphs/contributors)
 
 <!-- format: [nickname (Full Name (if desired)](personal link)-->
-## List of contributors
+## Manual List
 * [derekkramer](https://github.com/derekkramer)
-* [sunyatazero](https://github.com/sunyatazero)
+* [Tord](http://ihavearrived.org/)
 * [nikje94](https://github.com/nikje94)
 * [lauragift21](https://github.com/lauragift21)
