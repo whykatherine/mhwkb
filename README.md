@@ -1,4 +1,4 @@
-# mhwkb
+# mhwKB
 Mental Health and Wellness Knowledge Base
 
 See the [Knowlede Base](Knowledge_Base)
