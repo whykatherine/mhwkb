@@ -2,9 +2,9 @@
 na<br />
 "tags": ["GPLv3", "python", "self-care", "mindfulness", "breathing", "notifier"]<br />
 -<br />
-[mental-health (NPR app)](https://github.com/nprapps/mental-health)<br />
+[A Silent Epidemic](https://github.com/nprapps/mental-health)<br />
 na<br />
-"tags": ["public_schools", "USA", "python", "nodejs", "bipolar", "MIT"]<br />
+"tags": ["MIT", "visual_story", "public_schools", "USA", "python", "nodejs", "education"]<br />
 -<br />
 [Consent2Share](https://github.com/bhits/consent2share)<br />
 na<br />
