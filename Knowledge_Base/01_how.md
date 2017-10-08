@@ -6,3 +6,7 @@ na<br />
 2017-09-23<br />
 "tags": ["therapy", "art", "depression"]<br />
 -<br />
+[How We Do Harm: A Doctor Breaks Ranks About Being Sick in America](http://a.co/acYNpoJ)<br />
+2017-09-23<br />
+"tags": ["books", "doctors", "Otis Webb Brawley", "health care", "medication", "conflicts-of-interest"]<br />
+-<br />
