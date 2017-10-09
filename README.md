@@ -72,7 +72,3 @@ have contributed)
 * Andy Alt (andy400-dev@yahoo.com)
 * [Gitter Chat](https://gitter.im/mhwkb/Lobby)
 * [Issues](https://github.com/andy5995/mhwkb/issues)
-  * You can use the _issues_ feature to ask any question or leave any comments
-  about this project. It doesn't have to be a bug report, feature request, etc.
-  If the topic isn't already listed, just click
-  [New issue](https://github.com/andy5995/mhwkb/issues/new).
