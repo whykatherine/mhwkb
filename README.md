@@ -1,26 +1,15 @@
 # mhwKB
 Mental Health and Wellness Knowledge Base
 
-See the [Knowlede Base](Knowledge_Base)
-
-## Notes on Categorization
-
-Links starting with:
-* the word _a_ (ex. A)
-  * are in Knowlege_Base/01_a.md
-* the letter _a_ (ex. Anatomy)
-  * are in Knowlege_Base/01a.md
-* the word _How_
-  * are in Knowlege_Base/01_how.md
-* the phrase _Mental Health_
-  * are in Knowlege_Base/01_mental_health.md
-
+The links in the [Knowlede Base](Knowledge_Base) are viewable. The goal
+is to create a web site that displays them. Right now, people are encouraged
+to [add their favorite mental health links](CONTRIBUTING.md).
 
 ## This project is in the planning stages ##
 
 ## Goals
 * [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
-* Web site should be low-maintenance.
+* [Web site](https://github.com/andy5995/mhwkb/issues/6#issuecomment-334978501) should be low-maintenance.
   * a simple link manager
   * RSS aggregator
   * no logins necessary, all changes to site will be submitted through the
@@ -39,7 +28,7 @@ Links starting with:
 ## TODO
 * Collaborate / Determine the amount of interest in this project by other
 members of the open source community
-* Create web site
+* Create [web site](https://github.com/andy5995/mhwkb/issues/6#issuecomment-334978501)
 * parts of the web site should be able to display RSS feeds and excerpts
 * Add links
 * Program will be needed to parse data files that contains links
@@ -83,3 +72,7 @@ have contributed)
 * Andy Alt (andy400-dev@yahoo.com)
 * [Gitter Chat](https://gitter.im/mhwkb/Lobby)
 * [Issues](https://github.com/andy5995/mhwkb/issues)
+  * You can use the _issues_ feature to ask any question or leave any comments
+  about this project. It doesn't have to be a bug report, feature request, etc.
+  If the topic isn't already listed, just click
+  [New issue](https://github.com/andy5995/mhwkb/issues/new).
