@@ -34,6 +34,13 @@ members of the open source community
 * Program will be needed to parse data files that contains links
 * Allow users to easily submit links
 
+## Web site prototype
+
+2017-10-09: I wrote a program in C to start converting the .md files. Here's
+what the output looks like (after I manually added some html tags):
+
+https://mhwkb.github.io/
+
 ## Disclaimer
 The content on the web sites linked to from the knowledge base has been
 written by doctors, consumers, and a wide variety of people who have had
