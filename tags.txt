@@ -1,0 +1,116 @@
+List of Existing Tags
+
+If you need suggestions for tags, this is a good list for reference.
+
+Last updated 2017-10-11
+
+ABPP
+advocacy
+afghanistan
+AHRP
+Alison Bass
+art
+authors
+awareness
+Ben Goldacre
+bipolar disorder
+blogs
+books
+breathing
+Buddhism
+Christine Musello
+collaborative
+collection
+community
+conflicts-of-interest
+crime
+crisis
+David Cohen
+David Healy
+David M Allen
+dbt
+death
+depression
+directories
+discussion
+doctors
+DS4P
+education
+emergency
+Facebook
+family
+government
+GPLv3
+health care
+human rights
+human rights
+humour
+ignore
+illness
+iraq
+John Abramson
+Jonice Webb
+journal
+journalism
+Lisa Cosgrove
+loved one
+Marcia Angell
+Marsh Linehan
+M.D.
+medication
+mental health
+mental health services
+military
+mindfulness
+MIT
+music therapy
+NAMI
+news
+nodejs
+no-longer-updated
+non-pharmacological
+notifier
+open source
+Otis Webb Brawley
+over-arching
+personal stories
+Peter Breggin
+pharmacists
+PhD
+podcast
+press releases
+psychiatrists
+psychiatry
+psychopharmacologists
+publication
+public schools
+python
+research
+resources
+retreat
+Robert Whitaker
+SAMHSA
+scientists
+self-care
+self-expression
+self help
+social justice
+spirituality
+ssri
+stigma
+stories
+substance abuse
+suicide
+suicide prevention
+symptoms
+teaching
+tech industry
+therapy
+Thich Nhat Hanh
+training
+USA
+veterans
+viewpoint
+visual story
+youth
+youtube
