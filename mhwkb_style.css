@@ -1,12 +1,16 @@
+body {
+    text-align: center;
+}
+
 p.date {
     color: black;
     background-color: #EFDECD;
     font-size: 16px;
     text-align: center;
     display: inline-block;
-
 }
- a:link, a:visited {
+
+a:link, a:visited {
     background-color: #f44336;
     color: white;
     padding: 7px 12px;
@@ -14,57 +18,32 @@ p.date {
     text-decoration: none;
     display: inline-block;
 }
-
-
-
 a:hover, a:active {
-
     background-color: red;
-
 }
 
- a:link.title, a:visited.title {
-
+a:link.title, a:visited.title {
     background-color: #3B444B;
-
     color: yellow;
-
     padding: 7px 12px;
-
     text-align: center;
-
     text-decoration: none;
-
     display: inline-block;
-
     font-size: 20px;
-
 }
-
-
-
 a:hover.title, a:active.title {
-
     background-color: black;
-
     font-size: 20px;
-
 }
 
 p {
-
-  text-align: left;
-
+    text-align: left;
 }
 
 h2 {
-
-  text-align: center;
-
+    text-align: center;
 }
 
 td {
-
     text-align: left;
-
 }

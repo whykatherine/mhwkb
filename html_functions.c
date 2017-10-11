@@ -36,8 +36,7 @@ void create_html_header (char *html_file, char *title)
 <!DOCTYPE html>\n\
 <html>\n\
 <head>\n\
-<meta charset=\"UTF-8\">\n");
-  fprintf (fp, "\
+<meta charset=\"UTF-8\">\n\
 <title>%s</title>\n", title);
   fprintf (fp, "\
 <link rel=\"stylesheet\" type=\"text/css\"href=\"mhwkb_style.css\">\n\
