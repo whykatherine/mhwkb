@@ -37,8 +37,8 @@
 #define EXIT_OPENDIR_FAILURE 4
 
 
-#define VERSION ".0.0.03"
-#define DATE "2017-10-10"
+#define VERSION ".0.0.04"
+#define DATE "2017-10-11"
 
 #define MAX_TAG_COUNT 500
 
@@ -116,6 +116,12 @@ main (int argc, char **argv)
 
     char *tag_Ptr = malloc (sizeof (char *));
 
+    /* accumulates tags used to determine if the rel=nofollow attr
+     * should be applied to <a> tags
+     * Not yet implemented
+     */
+    char combined_tags[MAX_TAG_COUNT][256];
+
     while (fgets (md_line, 512, md_file) != NULL)
     {
       link_href[0] = '\0';
@@ -154,12 +160,12 @@ main (int argc, char **argv)
             link_href[href_pos++] = md_line[i];
         }
         link_href[href_pos++] = '\0';
-        fprintf (fp_index, "<a href=\"%s\">%s</a><br />\n", link_href, link_title);
+        fprintf (fp_index, "<a class=\"title\" href=\"%s\">%s</a><br />\n", link_href, link_title);
 
         fgets (md_line, 512, md_file);
         char *date_line = malloc (sizeof (date_line));
         strcpy (date_line, md_line);
-        fprintf (fp_index, "date: %s\n", date_line);
+        fprintf (fp_index, "<p class=\"date\">date: %s</p>\n", date_line);
 
         /* get the tags */
         fgets (md_line, 512, md_file);
@@ -220,9 +226,9 @@ main (int argc, char **argv)
           }
         }
 
-        /* Now that we know all the tags for one entry, make the html files
+        /* Now that we know all the tags for one entry, make the <tag>.html
+         * files
          */
-
         for (i = 0; i < tag_ctr; i++)
         {
           char html_tag_file[256];
@@ -251,8 +257,8 @@ main (int argc, char **argv)
             exit (1);
           }
 
-          fprintf (fp, "<a href=\"%s\">%s</a><br />\n", link_href, link_title);
-          fprintf (fp, "%s\n", date_line);
+          fprintf (fp, "<a class=\"title\" href=\"%s\">%s</a><br />\n", link_href, link_title);
+          fprintf (fp, "<p class=\"date\">date: %s</p>\n", date_line);
 
           int tag;
           for (tag = 0; tag < tag_ctr - 1; tag++)
