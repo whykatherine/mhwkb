@@ -37,18 +37,22 @@
 #define EXIT_OPENDIR_FAILURE 4
 
 
-#define VERSION ".0.0.02"
+#define VERSION ".0.0.03"
 #define DATE "2017-10-10"
 
-/* Needs lots of error checking added */
+#define MAX_TAG_COUNT 500
 
-void create_html_header (char *html_file);
+
+/* function prototypes */
+void create_html_header (char *html_file, char *title);
 void create_html_footer (FILE *html_file);
 
 void erase_char (char *str, char c);
 void trim_char (char *str, char c);
 
 int exists (const char *filename);
+
+#include "html_functions.c"
 
 int
 main (int argc, char **argv)
@@ -69,7 +73,10 @@ main (int argc, char **argv)
 
   if (exists (index_html) != 0)
   {
-    create_html_header (index_html);
+    char title_main[256];
+    strcpy (title_main, "Home (Under Construction)");
+    strcat (title_main, " - Mental Health and Wellness Knowledge Base");
+    create_html_header (index_html, title_main);
   }
 
   struct dirent *entry;
@@ -224,9 +231,14 @@ main (int argc, char **argv)
           strcat (html_tag_file, tags[i]);
           strcat (html_tag_file, ".html");
 
+          char title_tag[256];
+          strcpy (title_tag, tags[i]);
+          strcat (title_tag, " (Under Construction)");
+          strcat (title_tag, " - Mental Health and Wellness Knowledge Base");
+
           if (exists (html_tag_file) != 0)
           {
-            create_html_header (html_tag_file);
+            create_html_header (html_tag_file, title_tag);
           }
 
           FILE *fp;
@@ -250,7 +262,8 @@ main (int argc, char **argv)
             fprintf (fp, "<a href=\"%s\">%s</a>, ", tag_html, tags[tag]);
           }
 
-          fprintf (fp, "%s<br /><br />", tags[tag]);
+          /* add the last hyperlinked tag in the list (no comma printed) */
+          fprintf (fp, "<a href=\"%s\">%s</a><br /><br />", tag_html, tags[tag]);
 
           if (fclose (fp) != 0)
           {
@@ -326,56 +339,6 @@ main (int argc, char **argv)
     perror ("closedir");
 
   return 0;
-}
-
-
-void create_html_header (char *html_file)
-{
-
-  FILE *fp = fopen (html_file, "w");
-  if (fp == NULL)
-  {
-    perror ("failure: open file\n");
-    exit (1);
-  }
-
-  fprintf (fp, "\
-<!DOCTYPE html>\n\
-<html>\n\
-<head>\n\
-<meta charset=\"UTF-8\">\n");
-  fprintf (fp, "\
-<title>Testing - Mental Health and Wellness Knowledge Base (mhwKB)</title>\n\
-<style>\n\
-p {\n\
-  text-align: left;\n\
-}\n\
-h2 {\n\
-  text-align: center;\n\
-}\n\
-td {\n\
-    text-align: left;\n\
-}\n\
-</style>\n\
-</head>\n\
-<body>\n");
-
-  if (fclose (fp) != 0)
-  {
-    perror ("failure: close file\n");
-    exit (1);
-  }
-
-}
-
-void create_html_footer (FILE *html_file)
-{
-  fprintf (html_file, "\n\
-  <br /><br />\n\
-  <a href=\"index.html\">Back Home</a><br />\n\
-  <a href=\"https://github.com/andy5995/mhwkb\">About</a>\n\
-  </body>\n\
-</html>\n");
 }
 
 /**
