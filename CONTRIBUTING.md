@@ -8,6 +8,9 @@
 
 ## Tags
 * tags should be specific
+* If a tag has a space (open source), use a space, not an underscore ('_')
+  * If you notice any tags that have an underscore, please feel free to make
+  the correction and submit a PR
 * links that discuss many different types of mental health issues should be
 tagged using keywords that the article focuses on, not with each disorder
 listed
@@ -16,6 +19,11 @@ to "mental health", which makes the tag unnecessary.
 * Don't use synonyms. (ex. "veterans" is good, but don't add military. It's
 implied. If the links is more broadly about the military, then it's okay to
 use "military" and "veterans".
+* Date format YYYY-MM-DD
+  * Articles, news that have dates
+  * Books (just the year if the date of publication is difficult to determine
+    * Some books in the KB use "na" for the date. Please feel free to add the
+    date and submit a PR.
 * If you're not sure, don't spend any time worrying about it. Ask in the Gitter
 room or make a comment when you submit your pull request.
 
