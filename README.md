@@ -30,9 +30,9 @@ People are also encouraged to [add their favorite mental health links](https://g
 ## TODO
 * Collaborate / Determine the amount of interest in this project by other
 members of the open source community
-~~* Create [web site](https://github.com/andy5995/mhwkb/issues/6#issuecomment-334978501)~~
-~~* Program will be needed to parse data files that contains links~~
-~~* Allow users to easily submit links~~
+* ~~Create [web site](https://github.com/andy5995/mhwkb/issues/6#issuecomment-334978501)~~
+* ~~Program will be needed to parse data files that contains links~~
+* ~~Allow users to easily submit links~~
 
 ## Disclaimer
 The content on the web sites linked to from the knowledge base has been
