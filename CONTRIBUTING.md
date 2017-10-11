@@ -1,4 +1,13 @@
 # Contributing
+
+Thank you for your interest in this project...
+
+## Accepting an Issue
+**If you find an issue to work on, please leave a note asking about it first. If you
+don't, someone else may, and I will have to accept his or her patch/PR. It's best
+to leave a note so everyone knows who the patch is assigned to, and won't interfere
+with the work you want to do.**
+
 * [Code of Conduct](CODE_OF_CONDUCT.md)
 * [List of Contributors](CONTRIBUTORS.md)
 
