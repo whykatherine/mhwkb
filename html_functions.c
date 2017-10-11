@@ -39,51 +39,8 @@ void create_html_header (char *html_file, char *title)
 <meta charset=\"UTF-8\">\n");
   fprintf (fp, "\
 <title>%s</title>\n", title);
-  fprintf (fp, "<style>\n\
- p.date {\n\
-    color: black;\n\
-    background-color: #EFDECD;\n\
-    font-size: 16px;\n\
-    text-align: center;\n\
-    display: inline-block;\n\
-\n\
-}\n\
- a:link, a:visited {\n\
-    background-color: #f44336;\n\
-    color: white;\n\
-    padding: 7px 12px;\n\
-    text-align: center;\n\
-    text-decoration: none;\n\
-    display: inline-block;\n\
-}\n\
-\n\
-a:hover, a:active {\n\
-    background-color: red;\n\
-}\n\
- a:link.title, a:visited.title {\n\
-    background-color: #3B444B;\n\
-    color: yellow;\n\
-    padding: 7px 12px;\n\
-    text-align: center;\n\
-    text-decoration: none;\n\
-    display: inline-block;\n\
-    font-size: 20px;\n\
-}\n\
-\n\
-a:hover.title, a:active.title {\n\
-    background-color: black;\n\
-    font-size: 20px;\n\
-}\n\
-p {\n\
-  text-align: left;\n\
-}\n\
-h2 {\n\
-  text-align: center;\n\
-}\n\
-td {\n\
-    text-align: left;\n\
-}\n\
-</style>\n\
+  fprintf (fp, "\
+<link rel=\"stylesheet\" type=\"text/css\"href=\"mhwkb_style.css\">\n\
 </head>\n\
 <body>\n\
 <h1>%s</h1>\n", title);

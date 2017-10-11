@@ -37,7 +37,7 @@
 #define EXIT_OPENDIR_FAILURE 4
 
 
-#define VERSION ".0.0.04"
+#define VERSION ".0.0.05"
 #define DATE "2017-10-11"
 
 #define MAX_TAG_COUNT 500
