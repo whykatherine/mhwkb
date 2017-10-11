@@ -1,17 +1,19 @@
 # mhwKB
 Mental Health and Wellness Knowledge Base
 
-The links in the [Knowlede Base](Knowledge_Base) are viewable. The goal
-is to create a web site that displays them. Right now, people are encouraged
-to [add their favorite mental health links](CONTRIBUTING.md).
+## News
+
+**2017-10-11**
+The web site is live: https://mhwkb.github.io/
+It needs enhancements to the design. I'll be adding more tickets soon. Anyone is welcome to join the chat room.
+
+People are also encouraged to [add their favorite mental health links](https://github.com/andy5995/mhwkb/issues/5).
 
 ## This project is in the planning stages ##
 
 ## Goals
 * [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
 * [Web site](https://github.com/andy5995/mhwkb/issues/6#issuecomment-334978501) should be low-maintenance.
-  * a simple link manager
-  * RSS aggregator
   * no logins necessary, all changes to site will be submitted through the
   GitHub project page
   * links to external web sites added should have relatively fast load times,
@@ -28,18 +30,9 @@ to [add their favorite mental health links](CONTRIBUTING.md).
 ## TODO
 * Collaborate / Determine the amount of interest in this project by other
 members of the open source community
-* Create [web site](https://github.com/andy5995/mhwkb/issues/6#issuecomment-334978501)
-* parts of the web site should be able to display RSS feeds and excerpts
-* Add links
-* Program will be needed to parse data files that contains links
-* Allow users to easily submit links
-
-## Web site prototype
-
-2017-10-09: I wrote a program in C to start converting the .md files. Here's
-what the output looks like (after I manually added some html tags):
-
-https://mhwkb.github.io/
+~~* Create [web site](https://github.com/andy5995/mhwkb/issues/6#issuecomment-334978501)~~
+~~* Program will be needed to parse data files that contains links~~
+~~* Allow users to easily submit links~~
 
 ## Disclaimer
 The content on the web sites linked to from the knowledge base has been
