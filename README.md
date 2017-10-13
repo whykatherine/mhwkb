@@ -5,7 +5,7 @@ Mental Health and Wellness Knowledge Base
 
 **2017-10-11**
 The web site is live: https://mhwkb.github.io/
-It needs enhancements to the design. I'll be adding more tickets soon. Anyone is welcome to join the chat room.
+It needs enhancements to the design. I'll be adding more tickets soon. Anyone is welcome to join the [chat room](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI).
 
 People are also encouraged to [add their favorite mental health links](https://github.com/andy5995/mhwkb/issues/5).
 
@@ -70,5 +70,5 @@ have contributed)
 
 ## Contact
 * Andy Alt (andy400-dev@yahoo.com)
-* [Gitter Chat](https://gitter.im/mhwkb/Lobby)
+* [Chat (Slack Workspace)](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
 * [Issues](https://github.com/andy5995/mhwkb/issues)

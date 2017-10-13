@@ -12,7 +12,7 @@ with the work you want to do.**
 * [List of Contributors](CONTRIBUTORS.md)
 
 ## Communication
-  * [Gitter Chat](https://gitter.im/mhwkb/Lobby)
+  * [Chat (Slack Workspace)](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
   * [Create or Discuss Issues](https://github.com/andy5995/mhwkb/issues)
 
 ## Tags
