@@ -2,9 +2,9 @@
 
 Thank you for your interest in this project...
 
-## Accepting an Issue
-**If you find an issue to work on, please leave a note asking about it first. If you
-don't, someone else may, and I will have to accept his or her patch/PR. It's best
+## Inquiring about an Issue
+**If you find an issue that interests you, please leave a note asking about it first. If 
+you don't, someone else may, and I will have to accept his or her patch/PR. It's best
 to leave a note so everyone knows who the patch is assigned to, and won't interfere
 with the work you want to do.**
 
@@ -17,9 +17,7 @@ with the work you want to do.**
 
 ## Tags
 * tags should be specific
-* If a tag has a space (open source), use a space, not an underscore ('_')
-  * If you notice any tags that have an underscore, please feel free to make
-  the correction and submit a PR
+* It doesn't matter if tags have spaces or underscores
 * links that discuss many different types of mental health issues should be
 tagged using keywords that the article focuses on, not with each disorder
 listed
@@ -33,8 +31,8 @@ use "military" and "veterans".
   * Books (just the year if the date of publication is difficult to determine
     * Some books in the KB use "na" for the date. Please feel free to add the
     date and submit a PR.
-* If you're not sure, don't spend any time worrying about it. Ask in the Gitter
-room or make a comment when you submit your pull request.
+* If you're not sure what tags to use, don't spend any time worrying about it. Ask in the 
+  chat room or make a comment when you submit your pull request.
 
 ## Notes on Categorization
 Links starting with:
