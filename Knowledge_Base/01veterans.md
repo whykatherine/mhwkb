@@ -1,3 +1,7 @@
+[Mental Health Problems, Use of Mental Health Services, and Attrition From Military Service After Returning From Deployment to Iraq or Afghanistan](http://jamanetwork.com/journals/jama/fullarticle/202463)<br />
+2006-03-01<br />
+"tags": ["veterans", "treatment", "studies", "research", "USA", "iraq", "afghanistan"]<br />
+-<br />
 [The Mental Health Home for Veterans Affairs](https://www.mentalhealth.va.gov/)<br />
 na<br />
 "tags": ["veterans", "USA", "government"]<br />
@@ -6,7 +10,7 @@ na<br />
 na<br />
 "tags": ["veterans", "USA", "crisis", "emergency", "suicide prevention"]<br />
 -<br />
-[NAMI: National Alliance on Mental Illness](https://www.nami.org/Find-Support/Veterans-and-Active-Duty)<br />
+[Veterans & Active Duty | NAMI: National Alliance on Mental Illness](https://www.nami.org/Find-Support/Veterans-and-Active-Duty)<br />
 na<br />
 "tags": ["veterans", "NAMI", "resources"]<br />
 -<br />
@@ -16,5 +20,5 @@ na<br />
 -<br />
 [Buddhist Mindfulness Retreat for Veterans](https://www.youtube.com/playlist?list=PLs6ORPE7MX1tdcM5Ec3IHq3s18XFSJr-T)<br />
 na<br />
-"tags": ["veterans", "mindfulness", "retreat", "youtube", "Buddhism"]<br />
+"tags": ["veterans", "mindfulness", "retreat", "videos", "Buddhism"]<br />
 -<br />
